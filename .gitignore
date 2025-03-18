@@ -1,0 +1,5 @@
+# Ignore Python cache files
+__pycache__/
+.vscode/
+
+# Add other files or directories to ignore below
